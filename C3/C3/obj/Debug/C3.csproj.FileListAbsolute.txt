@@ -1,0 +1,7 @@
+C:\Users\Agnieszka\Code\Git\schowek\C3\C3\bin\Debug\C3.exe.config
+C:\Users\Agnieszka\Code\Git\schowek\C3\C3\bin\Debug\C3.exe
+C:\Users\Agnieszka\Code\Git\schowek\C3\C3\bin\Debug\C3.pdb
+C:\Users\Agnieszka\Code\Git\schowek\C3\C3\obj\Debug\C3.csprojAssemblyReference.cache
+C:\Users\Agnieszka\Code\Git\schowek\C3\C3\obj\Debug\C3.csproj.CoreCompileInputs.cache
+C:\Users\Agnieszka\Code\Git\schowek\C3\C3\obj\Debug\C3.exe
+C:\Users\Agnieszka\Code\Git\schowek\C3\C3\obj\Debug\C3.pdb
